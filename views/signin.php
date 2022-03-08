@@ -46,6 +46,7 @@
     -->
 </form>
 <script defer>
+    
     $("#form-signin").submit(function(e){
         e.preventDefault();//prevent submit
 
