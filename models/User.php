@@ -1,5 +1,4 @@
 <?php
-
 require_once ('../config/ConectionPDO.php');
 
 class User
