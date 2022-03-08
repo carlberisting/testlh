@@ -1,5 +1,5 @@
 # testlh
-proyect 
+proyect
 
 # versions
 PHP Version 7.4.11
