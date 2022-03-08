@@ -37,6 +37,7 @@
 
 </form>
 <script defer>
+    
     $("#form-register").submit(function(e){
         e.preventDefault();//prevent submit
 
